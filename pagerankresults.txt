@@ -1,0 +1,101 @@
+1. United States
+2. Genomics Institute of the Novartis Research Foundation
+3. France
+4. Germany
+5. England
+6. Canada
+7. Japan
+8. United Kingdom
+9. Poland
+10. Australia
+11. Romania
+12. India
+13. Departments of France
+14. Italy
+15. English language
+16. World War II
+17. Gmina
+18. Voivodeships of Poland
+19. Powiat
+20. Spain
+21. Communes of France
+22. London
+23. California
+24. Brazil
+25. Animal
+26. United States Census Bureau
+27. Sweden
+28. Scotland
+29. New York
+30. New York City
+31. Russia
+32. Album
+33. Norway
+34. Allmusic
+35. Marriage
+36. New Zealand
+37. National Register of Historic Places
+38. China
+39. Mexico
+40. Political divisions of the United States
+41. Geographic Names Information System
+42. Netherlands
+43. Switzerland
+44. Philippines
+45. Endemism
+46. Austria
+47. Paris
+48. Pennsylvania
+49. Federal Information Processing Standard
+50. Texas
+51. Europe
+52. American football
+53. South Africa
+54. Ireland
+55. Fair use
+56. Florida
+57. World War I
+58. Argentina
+59. Slovakia
+60. Ontario
+61. Ohio
+62. Greece
+63. Illinois
+64. Belgium
+65. Finland
+66. Pakistan
+67. Turkey
+68. Denmark
+69. Hungary
+70. Member of Parliament
+71. CAS registry number
+72. ZIP code
+73. Portugal
+74. Central European Time
+75. Colombia
+76. Virginia
+77. NASA
+78. Soviet Union
+79. United States House of Representatives
+80. Rock music
+81. Wales
+82. Major League Baseball
+83. Azerbaijan
+84. Peru
+85. City
+86. United States Navy
+87. Arthropod
+88. British Columbia
+89. South Korea
+90. Plant
+91. Iran
+92. Israel
+93. Czech Republic
+94. Royal Navy
+95. Malaysia
+96. BBC
+97. American Civil War
+98. New Jersey
+99. Chicago
+100. Indonesia
+Time taken to compute using Spark Implementation is 2457

@@ -1,0 +1,100 @@
+1. Genomics Institute of the Novartis Research Foundation
+2. Harvard University
+3. Columbia University
+4. Stanford University
+5. Yale University
+6. Cornell University
+7. University of Michigan
+8. University of Cambridge
+9. Princeton University
+10. University of Oxford
+11. University of Chicago
+12. Ohio State University
+13. University of Pennsylvania
+14. University of Southern California
+15. New York University
+16. Brown University
+17. Massachusetts Institute of Technology
+18. Oxford University Press
+19. University of Toronto
+20. University of Florida
+21. University of Minnesota
+22. University of Virginia
+23. University of Washington
+24. Northwestern University
+25. University of North Carolina at Chapel Hill
+26. University of Texas at Austin
+27. Duke University
+28. University of Pittsburgh
+29. Johns Hopkins University
+30. Cambridge University Press
+31. University of London
+32. Rutgers University
+33. Michigan State University
+34. Boston University
+35. University of Georgia
+36. Smithsonian Institution
+37. Brigham Young University
+38. Georgetown University
+39. University of Notre Dame
+40. Purdue University
+41. Florida State University
+42. McGill University
+43. University of Iowa
+44. Indiana University
+45. Syracuse University
+46. University of California
+47. University of Arizona
+48. University of Edinburgh
+49. Louisiana State University
+50. Arizona State University
+51. University of Oklahoma
+52. Georgia Institute of Technology
+53. University of Kansas
+54. Pennsylvania State University
+55. University of Tennessee
+56. University of Alabama
+57. Carnegie Mellon University
+58. University of British Columbia
+59. University of Utah
+60. University of Miami
+61. University of Oregon
+62. University of Paris
+63. Public university
+64. University College London
+65. University of Kentucky
+66. University of Colorado at Boulder
+67. Oregon State University
+68. National Institutes of Health
+69. University of Sydney
+70. Iowa State University
+71. University of Melbourne
+72. George Washington University
+73. Temple University
+74. Auburn University
+75. Vanderbilt University
+76. University of South Carolina
+77. University of Arkansas
+78. University of Houston
+79. University of Missouri
+80. Texas Tech University
+81. North Carolina State University
+82. University of Glasgow
+83. West Virginia University
+84. University of Oslo
+85. University of Connecticut
+86. Tulane University
+87. California Institute of Technology
+88. University of Cincinnati
+89. Howard University
+90. University of Manitoba
+91. Australian National University
+92. University of Alberta
+93. University of Manchester
+94. University of Tokyo
+95. Rice University
+96. University of Vienna
+97. Tufts University
+98. Kansas State University
+99. Southern Methodist University
+100. University of Mississippi
